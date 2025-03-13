@@ -15,7 +15,6 @@ RUN task build
 
 # Final image
 FROM alpine:edge
-
 # Install ca-certificates
 RUN apk add --update ca-certificates
 
