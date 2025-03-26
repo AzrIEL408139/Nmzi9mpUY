@@ -108,7 +108,6 @@ RawStringFormats:
     CanonicalDelimiter: ''
     BasedOnStyle:    google
   - Language:        TextProto
-    Delimiters:
       - pb
       - PB
       - proto
