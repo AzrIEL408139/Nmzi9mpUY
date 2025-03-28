@@ -32,7 +32,6 @@ dubbo-config-spring6
 dubbo-configcenter
 dubbo-configcenter-file
 dubbo-configcenter-apollo
-dubbo-configcenter-nacos
 dubbo-configcenter-zookeeper
 dubbo-core-spi
 dubbo-dependencies-all
