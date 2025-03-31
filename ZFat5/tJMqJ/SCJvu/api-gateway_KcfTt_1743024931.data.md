@@ -40,7 +40,6 @@ _✨ Access all LLM through the standard OpenAI API format, easy to deploy & use
   <a href="https://github.com/songquanpeng/one-api/issues">Feedback</a>
   ·
   <a href="#screenshots">Screenshots</a>
-  ·
   <a href="https://openai.justsong.cn/">Live Demo</a>
   ·
   <a href="#faq">FAQ</a>
