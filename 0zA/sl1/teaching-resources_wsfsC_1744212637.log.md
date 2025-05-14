@@ -19,7 +19,6 @@ Describe what you expected to happen when you encountered the issue. This will h
 Describe what actually happened when you encountered the issue. This will help others to understand the specific problem you are facing and what needs to be fixed.
 
 ## **Environment**
-
 Provide information about the environment in which the issue occurred, including the operating system, browser or application version, and any relevant hardware or software configuration details. This information will help others to identify any potential compatibility issues that may be causing the issue.
 
 - Operating system:
