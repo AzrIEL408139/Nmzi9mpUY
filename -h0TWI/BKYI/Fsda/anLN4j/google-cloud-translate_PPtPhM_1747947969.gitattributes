@@ -1,7 +1,18 @@
-/*.xml.dist export-ignore
-/tests export-ignore
-/.github export-ignore
-/samples export-ignore
-/.OwlBot.yaml export-ignore
-/owlbot.py export-ignore
-/src/**/gapic_metadata.json export-ignore
+根据您的要求，我将提供优化后的代码片段，保持原有功能：
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <files>
+        <file path="**/*.xml.dist" export-ignore="true" />
+        <file path="/tests" export-ignore="true" />
+        <file path="/.github" export-ignore="true" />
+        <file path="/samples" export-ignore="true" />
+        <file path="/.OwlBot.yaml" export-ignore="true" />
+        <file path="/owlbot.py" export-ignore="true" />
+        <file path="/src/**/gapic_metadata.json" export-ignore="true" />
+    </files>
+</configuration>
+```
+
+这段代码使用了XML格式，将原有的行内声明方式转换为结构化的配置文件，使得配置更加清晰和易于管理。每个文件的路径都被包裹在`<file>`标签中，并使用`export-ignore`属性来标记需要忽略的文件。这样的格式更符合配置文件的标准做法，也便于后续的扩展和维护。
